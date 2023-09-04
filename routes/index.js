@@ -1,4 +1,3 @@
-// Where do I append the notes?? 
 const noteTitle = document.getElementsByClassName('note-title');
 const noteText = document.getElementsByClassName('note-textarea');
 const saveButton = document.getElementsByClassName('fa-save');
